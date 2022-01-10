@@ -23,13 +23,12 @@
 2) Log into **Azure DevOps** portal with credentials that have the following permissions:
    - Repository read access to the following projects:
      - Core
-     - EnsonoLab
    - Build & Release pipeline write access to the following project:
-     - EnsonoLab
+     - Core
    - Read access to the **Azure** service connection for the following project:
-     - EnsonoLab
+     - Core
 
-3) Navigate to the EnsonoLab Project [Core_Monitors](https://dev.azure.com/EnsonoDevOps/EnsonoLab/_release?_a=releases&view=mine&definitionId=3) release pipeline
+3) Navigate to the Core Project release pipeline
 
 4) In the upper right hand corner of the dashboard click on **Edit**
 
@@ -125,13 +124,13 @@
 4) Log into **Azure DevOps** portal with credentials that have the following permissions:
    - Repository read access to the following projects:
      - Core
-     - EnsonoLab
+     
    - Build & Release pipeline write access to the following project:
-     - EnsonoLab
+     - Core
    - Read access to the **Azure** service connection for the following project:
-     - EnsonoLab
+     - Core
 
-5) Navigate to the EnsonoLab Project [Core_Monitors](https://dev.azure.com/EnsonoDevOps/EnsonoLab/_release?_a=releases&view=mine&definitionId=3) release pipeline
+5) Navigate to the Core Project [Core_Monitors] release pipeline
 
 6) In the upper right hand corner of the dashboard click on **Edit**
 

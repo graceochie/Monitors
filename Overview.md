@@ -2,12 +2,12 @@
 
 ## Overview
 
-This module creates monitoring metric resources on Microsoft Azure, and is used by the Ensono Cloud Services Provider (CSP) landing zones provisioning process.  This module will cover both Azure Monitor resources and Azure Log Analytics metrics.
+This module creates monitoring metric resources on Microsoft Azure, and is used by the Cloud Services Provider (CSP) landing zones provisioning process.  This module will cover both Azure Monitor resources and Azure Log Analytics metrics.
 
 ## Prerequisites
 
 - Access to an **Azure subscription**.
-- Access to **Azure DevOps** and to the Ensono **Core** project
+- Access to **Azure DevOps** and to the Core **Core** project
   - Ensure access to service principal authentication
   - Ensure ability to modify release pipeline variables
   - Ensure ability to create/modify code on Azure DevOps repo(s)
@@ -62,23 +62,19 @@ At a high level the follow activities are performed in utilizing this module:
   
 
 
-A detailed instructions document can be found [here](https://dev.azure.com/EnsonoDevOps/Core/_git/Core_Convert_Datadog_to_Azure_Monitor?path=/Instructions.md&version=GBwb_branch).
-
 
 ## Index
 
 For a complete index of the currently available Azure Monitor & Log Analytics metrics please use the following links:
 
-[Azure Monitor](https://dev.azure.com/EnsonoDevOps/Core/_git/Core_Convert_Datadog_to_Azure_Monitor?path=/AZURE_MONITORS.md&version=GBwb_branch)
+[Azure Monitor]
 
-[Log Analytics](https://dev.azure.com/EnsonoDevOps/Core/_git/Core_Convert_Datadog_to_Azure_Monitor?path=/LOG_ANALYTICS_MONITORS.md&version=GBwb_branch)
+[Log Analytics]
 
 
 ## Community
 
-Feel free to open an issue for feature or bug, or to submit a PR, [Please check out the WIKI for coding standards, common patterns and PR checklist.](https://github.com/aztfmod/terraform-azurerm-caf/wiki)
-
-In case you have any question, you can reach out to <insert text>.
+In case you have any question, you can reach out to <https://github.com/graceochie>.
 
 
 
